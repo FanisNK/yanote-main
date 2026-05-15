@@ -1,0 +1,2 @@
+# yanote-main
+django-testing
